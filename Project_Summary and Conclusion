@@ -1,11 +1,1 @@
-# Project_Summary
-AirBnb is a brief identify for "Air Bed and Breakfast", is a online hospitality company focused on short time length homestays or rental platform.
 
-On airbnb, users can book a nearby to stay as accordance to their convinent in more than 34000+ cities at some aspect of 200+ countries. Airbnb used to started in 2008 by Brian Chesky and Joe Gebbia, specifically based in San Francisco California. Airbnb platform is reachable via mobile app and website.
-
-In our project, there is 16 columns which has hosts, host_name, neighbourhood_group, neighbourhood, room_type etc and 48895 rows which has all the information about airbnb's hosts. This datasets also have some null values which are handled by us. We can also see the overall details of NYC using the map.
-
-
-# Conclusion
-
-In this analysis project, about 10 different use cases were analyzed on the given dataset to make better business decisions and help analyze customer trends and satisfaction, which can lead to new and better products and services. It has been found that Most of the Bookings were takes place for the "Williamsburg" of around "27%" followed by "Bedford-Stuyvesant", "Harlem" which has "25%" & "18%" respectively. Additionally, we also find-out the Top Earners (Host), relationship between neighbourhood group and Prices, Price comparison in terms of Room Type, Preference of Guests with respect to Room Type. Furthermore, we have also been analyzed Maximum Number of Bookings, Customer Reviews and many more.
